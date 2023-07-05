@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multidimensional Arrays - Lab", "Multidimensional Arrays - Lab\Multidimensional Arrays - Lab.csproj", "{B0D1B618-2377-4E20-B495-B139D5CC6518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad2", "zad2\zad2.csproj", "{E4BC3873-F91E-404C-8A51-9347B85EDCF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad3", "zad3\zad3.csproj", "{C86F46EC-F884-458A-BCFF-1EB867D98519}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad4", "zad4\zad4.csproj", "{20CE4D6A-2349-4EEF-98CB-D0D46A69AB0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad5", "zad5\zad5.csproj", "{94DB87CF-5841-42DC-8D21-7013B2F24874}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad6", "zad6\zad6.csproj", "{775D6FA1-65FE-4E21-81CE-2A2354872122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad7", "zad7\zad7.csproj", "{75C2884B-C91F-40B4-B534-B5842CF9935A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D1B618-2377-4E20-B495-B139D5CC6518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D1B618-2377-4E20-B495-B139D5CC6518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D1B618-2377-4E20-B495-B139D5CC6518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D1B618-2377-4E20-B495-B139D5CC6518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BC3873-F91E-404C-8A51-9347B85EDCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC3873-F91E-404C-8A51-9347B85EDCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC3873-F91E-404C-8A51-9347B85EDCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC3873-F91E-404C-8A51-9347B85EDCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86F46EC-F884-458A-BCFF-1EB867D98519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86F46EC-F884-458A-BCFF-1EB867D98519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86F46EC-F884-458A-BCFF-1EB867D98519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86F46EC-F884-458A-BCFF-1EB867D98519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CE4D6A-2349-4EEF-98CB-D0D46A69AB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CE4D6A-2349-4EEF-98CB-D0D46A69AB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CE4D6A-2349-4EEF-98CB-D0D46A69AB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CE4D6A-2349-4EEF-98CB-D0D46A69AB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DB87CF-5841-42DC-8D21-7013B2F24874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DB87CF-5841-42DC-8D21-7013B2F24874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DB87CF-5841-42DC-8D21-7013B2F24874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DB87CF-5841-42DC-8D21-7013B2F24874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775D6FA1-65FE-4E21-81CE-2A2354872122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775D6FA1-65FE-4E21-81CE-2A2354872122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775D6FA1-65FE-4E21-81CE-2A2354872122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775D6FA1-65FE-4E21-81CE-2A2354872122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C2884B-C91F-40B4-B534-B5842CF9935A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C2884B-C91F-40B4-B534-B5842CF9935A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C2884B-C91F-40B4-B534-B5842CF9935A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C2884B-C91F-40B4-B534-B5842CF9935A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117D1CBE-B97F-4BA2-BF59-C9BBE26EF600}
+	EndGlobalSection
+EndGlobal
